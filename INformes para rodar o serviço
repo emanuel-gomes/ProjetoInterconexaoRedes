@@ -1,0 +1,13 @@
+source flask_env/bin/activate
+
+pip3 install flask
+
+pip3 install flask_json_schema
+
+pip3 install flask_cors
+
+python3 Appy.py
+
+
+
+
